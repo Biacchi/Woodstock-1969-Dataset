@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+matplotlib
+lxml   # lets pandas.read_html parse the Wikipedia tables
